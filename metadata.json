@@ -1,0 +1,5 @@
+{
+  "name": "Olomán Express Driver App",
+  "description": "Aplicación logística profesional para conductores de Olomán Express. Gestión de recogida de cajas de USA a Honduras con cálculo de tarifas, reportes PDF/Excel, fotos de paquetes y rutas de entrega.",
+  "requestFramePermissions": ["camera"]
+}
